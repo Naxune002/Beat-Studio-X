@@ -7,5 +7,5 @@ This is a more modern and sleek design countering Incredibox.
 
 We have 100+ sounds and I will be adding more in the future! 
 
-# JOIN THE DISCORD SERVER
+## JOIN THE DISCORD SERVER
 # https://discord.gg/yYqDBsqcmt
